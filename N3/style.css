@@ -1,0 +1,49 @@
+#forma {
+    border-width:5px;
+	border-style:double;
+	/*background-color: #308030;*/
+	position: absolute;
+	left:50px; 
+	top:50px;
+ 	height:180px; 
+	width:400px;
+    padding: 15px;	
+}
+#res {
+    border-width:5px;
+	border-style:double;
+	/*background-color: #308030;*/
+	position: absolute;
+	left:50px; 
+	top:265px; 
+	width:400px;
+    padding: 15px;	
+}
+h3 {
+    position: absolute;
+	left:30%; 
+}
+p {
+    position: absolute;
+	top:50px; 
+}
+[type="text"] {
+    position: absolute; 
+	left:20%; 
+ 	top:165px; 
+	font:11px Verdana; 
+	height:24px; 
+	width:150px; 
+}
+[type="submit"] {
+    position: 
+	absolute; 
+	left:58%; 
+	top:170px; 
+	font: bold 11px Verdana; 
+	background-color:#FFFFFF; 
+	height:19px; 
+	width:50px;
+}
+p {position:absolute;}
+	

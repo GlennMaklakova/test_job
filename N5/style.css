@@ -1,0 +1,22 @@
+
+body {
+    position:absolute;
+	top:0px; 
+	left:0px;
+    margin:0px; 
+	padding:5px; 
+	font-family: verdana, sans-serif; 
+	font-size:12px; 
+	}
+h1 {
+    text-align:center; 
+	margin-top:10px;
+	}
+.div_pict { 
+    position:absolute;
+	cursor:move;  
+    }
+#div_pict1 { top:80px; left:400px; }
+#div_pict2 { top:220px; left:500px; }
+  
+  
